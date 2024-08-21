@@ -1,6 +1,6 @@
 # Hola, mi nombre es Kennedi Luna 👋
-### Freelance full-stack iOS & Android engineer
-
+### Freelance Data Analyst & Automation Engineer
+<!--
 ![https://github.com/mouredev](./mouredev_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
@@ -125,7 +125,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 </td>
 </tr>
 </table>
-
+ -->
 ## Contacto y apoyo:
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
